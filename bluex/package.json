@@ -1,0 +1,26 @@
+{
+    "name": "bluex",
+    "author": "alanwalter45",
+    "displayName": "Bluex",
+    "description": "Colorscheme Blue for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bluex",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bluex-color-theme.json"
+            }
+        ]
+    },
+    "maintainers": [
+		"Alan WMD <alanwalter45@gmail.com>"
+	],
+	"icon": "icon.png"
+}
