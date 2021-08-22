@@ -31,25 +31,25 @@
 		"list.highlightForeground": "#FFFFFF",
 		"list.hoverBackground": "#0033FF",
 		// Activity Bar
-		"activityBar.foreground": "#FFFFFF",
-		"activityBar.background": "#134bce",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.background": "#134BCE",
 		"activityBarBadge.foreground": "#3360CC",
 		"activityBarBadge.background": "#D0D000",
 		// Side Bar
-		"sideBarTitle.foreground": "#FFFFFF",
+		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.background": "#0717a8",
 		"sideBarSectionHeader.background": "#1952da",
 		// Editors and Tab Groups
 		"editorGroup.border": "#6699CC",
 		"editorGroupHeader.tabsBackground": "#1133CC",
 		"tab.activeBackground": "#002291",
-		"tab.inactiveForeground": "#dddddd",
+		"tab.inactiveForeground": "#cccccc",
 		"tab.inactiveBackground": "#1133CC",
 		"tab.border": "#6699CC",
 		// Editor Colors
 		"editor.foreground": "#F0F0F0",
-		"editor.background": "#0022BB",
-		"editorLineNumber.foreground": "#948b2c",
+		"editor.background": "#193DAA",
+		"editorLineNumber.foreground": "#dddddd",
 		"editorCursor.foreground": "#F0F000",
 		"editor.inactiveSelectionBackground": "#1144CC",
 		"editor.selectionBackground": "#0a56e4",
@@ -60,7 +60,7 @@
 		"editor.findMatchHighlightBackground": "#999933",
 		"editor.findRangeHighlightBackground": "#2255CC",
 		"editor.hoverHighlightBackground": "#3366FF",
-		"editor.lineHighlightBackground": "#0011AA",
+		"editor.lineHighlightBackground": "#0b1ec9",
 		"editorLink.activeForeground": "#CC9966",
 		"editor.rangeHighlightBackground": "#3366FF",
 		"editorWhitespace.foreground": "#3060C0",
@@ -104,7 +104,7 @@
 		// Panel Colors
 		"panelTitle.activeForeground": "#F0F0F0",
 		"panelTitle.inactiveForeground": "#9099CC",
-		/* "panel.background": "#012e8f", */
+		/* "panel.background": "#001fa5", */
 		"panel.background": "#001fa5",
 		"panel.border": "#6699FF",
 		"panelTitle.activeBorder": "#F0F0F0",
@@ -138,7 +138,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#aaa"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -386,7 +386,8 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#f700ff"
+				/* "foreground": "#f700ff" */
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -415,7 +416,8 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				/* "foreground": "#b364e7" */
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -433,7 +435,8 @@
 				"string.quoted.double.html"
 			],
 			"settings": {
-				"foreground": "#f700ff"
+				/* "foreground": "#f700ff" */
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -489,7 +492,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -548,7 +551,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -611,7 +614,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -639,7 +642,7 @@
 				"text.html.markdown markup.inline.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -741,7 +744,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#b364e7"
+				"foreground": "#e4bcff"
 			}
 		},
 		{
@@ -759,7 +762,8 @@
 				"markup.raw.block"
 			],
 			"settings": {
-				"foreground": "#f700ff"
+				/* "foreground": "#f700ff" */
+				"foreground": "#ffffff"
 			}
 		},
 		{
