@@ -37,7 +37,7 @@
 		"activityBarBadge.background": "#D0D000",
 		// Side Bar
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#0717a8",
+		"sideBar.background": "#051180",
 		"sideBarSectionHeader.background": "#1952da",
 		// Editors and Tab Groups
 		"editorGroup.border": "#6699CC",
@@ -105,11 +105,11 @@
 		"panelTitle.activeForeground": "#F0F0F0",
 		"panelTitle.inactiveForeground": "#9099CC",
 		/* "panel.background": "#001fa5", */
-		"panel.background": "#001fa5",
+		"panel.background": "#001b94",
 		"panel.border": "#6699FF",
 		"panelTitle.activeBorder": "#F0F0F0",
 		// Status Bar Colors
-		"statusBar.background": "#003099",
+		"statusBar.background": "#012063",
 		"statusBar.noFolderBackground": "#000066",
 		"statusBar.debuggingBackground": "#C06090",
 		"statusBar.foreground": "#F0F0F0",
