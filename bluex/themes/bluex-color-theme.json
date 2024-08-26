@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		// Base Colors
-		"focusBorder": "#99CCFF",
+		"focusBorder": "#000000",
 		"foreground": "#FFFFFF",
 		"widget.shadow": "#003399",
 		// Button Control
@@ -25,32 +25,32 @@
 		"inputValidation.warningBorder": "#F0F000",
 		"inputValidation.errorBorder": "#F00000",
 		// Lists and Trees
-		"list.activeSelectionBackground": "#6699FF",
-		"list.inactiveSelectionBackground": "#3366FF",
-		"list.focusBackground": "#0033FF",
+		"list.activeSelectionBackground": "#002280",
+		"list.inactiveSelectionBackground": "#000000",
+		"list.focusBackground": "#000000",
 		"list.highlightForeground": "#FFFFFF",
-		"list.hoverBackground": "#0033FF",
+		"list.hoverBackground": "#0008298c",
 		// Activity Bar
 		"activityBar.foreground": "#ffffff",
-		"activityBar.background": "#134BCE",
-		"activityBarBadge.foreground": "#3360CC",
-		"activityBarBadge.background": "#D0D000",
+		"activityBar.background": "#00098a",
+		"activityBarBadge.foreground": "#ffffff",
+		"activityBarBadge.background": "#003cff",
 		// Side Bar
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#051180",
-		"sideBarSectionHeader.background": "#1952da",
+		"sideBar.background": "#000d55",
+		"sideBarSectionHeader.background": "#00012e",
 		// Editors and Tab Groups
-		"editorGroup.border": "#6699CC",
-		"editorGroupHeader.tabsBackground": "#1133CC",
-		"tab.activeBackground": "#002291",
+		"editorGroup.border": "#070707",
+		"editorGroupHeader.tabsBackground": "#2b2b2b",
+		"tab.activeBackground": "#000000",
 		"tab.inactiveForeground": "#cccccc",
-		"tab.inactiveBackground": "#1133CC",
-		"tab.border": "#6699CC",
+		"tab.inactiveBackground": "#2c2c2c",
+		"tab.border": "#000000",
 		// Editor Colors
 		"editor.foreground": "#F0F0F0",
-		"editor.background": "#193DAA",
+		"editor.background": "#030303",
 		"editorLineNumber.foreground": "#dddddd",
-		"editorCursor.foreground": "#F0F000",
+		"editorCursor.foreground": "#0099ff",
 		"editor.inactiveSelectionBackground": "#1144CC",
 		"editor.selectionBackground": "#0a56e4",
 		"editor.selectionHighlightBackground": "#7711AA",
@@ -60,18 +60,18 @@
 		"editor.findMatchHighlightBackground": "#999933",
 		"editor.findRangeHighlightBackground": "#2255CC",
 		"editor.hoverHighlightBackground": "#3366FF",
-		"editor.lineHighlightBackground": "#0b1ec9",
+		"editor.lineHighlightBackground": "#292929",
 		"editorLink.activeForeground": "#CC9966",
 		"editor.rangeHighlightBackground": "#3366FF",
 		"editorWhitespace.foreground": "#3060C0",
-		"editorIndentGuide.background": "#3366CC",
+		"editorIndentGuide.background1": "#333333",
 		// Diff Colors
 		"diffEditor.insertedTextBackground": "#004099",
 		"diffEditor.insertedTextBorder": "#66FF66",
 		"diffEditor.removedTextBackground": "#400099",
 		"diffEditor.removedTextBorder": "#FF6666",
 		// Editor Widget Colors
-		"editorGutter.background": "#0022BB",
+		"editorGutter.background": "#030303",
 		"editorGutter.addedBackground": "#11CCCC",
 		"editorGutter.deletedBackground": "#FF33CC",
 		"editorGutter.modifiedBackground": "#1199FF",
@@ -105,11 +105,11 @@
 		"panelTitle.activeForeground": "#F0F0F0",
 		"panelTitle.inactiveForeground": "#9099CC",
 		/* "panel.background": "#001fa5", */
-		"panel.background": "#001b94",
-		"panel.border": "#6699FF",
+		"panel.background": "#00098a",
+		"panel.border": "#eeeeee",
 		"panelTitle.activeBorder": "#F0F0F0",
 		// Status Bar Colors
-		"statusBar.background": "#012063",
+		"statusBar.background": "#00098a",
 		"statusBar.noFolderBackground": "#000066",
 		"statusBar.debuggingBackground": "#C06090",
 		"statusBar.foreground": "#F0F0F0",
@@ -123,9 +123,6 @@
 		"titleBar.activeForeground": "#C0CCFF",
 		"titleBar.inactiveBackground": "#003099",
 		"titleBar.inactiveForeground": "#9099CC",
-		// Notification
-		"notification.background": "#DDEEFF",
-		"notification.foreground": "#303030",
 		// Debug Tool Bar
 		"debugToolBar.background": "#1133CC",
 	},
@@ -148,7 +145,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#eeeeee"
 			}
 		},
 		{

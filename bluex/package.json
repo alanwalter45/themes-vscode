@@ -2,8 +2,8 @@
     "name": "bluex",
     "author": "alanwalter45",
     "displayName": "Bluex",
-    "description": "Colorscheme Blue for vscode",
-    "version": "0.0.4",
+    "description": "Colorscheme Dark for vscode",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -20,12 +20,12 @@
         ]
     },
     "maintainers": [
-		"Alan WMD <alanwalter45@gmail.com>"
-	],
-	"icon": "icon.png",
-	"publisher":"alanwalter45",
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/alanwalter45/themes-vscode.git"	
-	}
+        "Alan Walter Machuca Durex <alanwalter45@gmail.com>"
+    ],
+    "icon": "icon.png",
+    "publisher": "alanwalter45",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alanwalter45/themes-vscode.git"
+    }
 }
