@@ -32,7 +32,7 @@
 		"list.hoverBackground": "#0008298c",
 		// Activity Bar
 		"activityBar.foreground": "#ffffff",
-		"activityBar.background": "#040741",
+		"activityBar.background": "#00066b",
 		"activityBarBadge.foreground": "#ffffff",
 		"activityBarBadge.background": "#003cff",
 		// Side Bar
@@ -42,15 +42,15 @@
 		// Editors and Tab Groups
 		"editorGroup.border": "#070707",
 		"editorGroupHeader.tabsBackground": "#000d55",
-		"tab.activeBackground": "#000000",
+		"tab.activeBackground": "#1d1d1d",
 		"tab.inactiveForeground": "#cccccc",
-		"tab.inactiveBackground": "#2c2c2c",
+		"tab.inactiveBackground": "#000d77",
 		"tab.border": "#000000",
 		// Editor Colors
 		"editor.foreground": "#F0F0F0",
 		"editor.background": "#1d1d1d",
 		"editorLineNumber.foreground": "#9e9d9d",
-		"editorCursor.foreground": "#0099ff",
+		"editorCursor.foreground": "#eeeeee",
 		"editor.inactiveSelectionBackground": "#1144CC",
 		"editor.selectionBackground": "#0a56e4",
 		"editor.selectionHighlightBackground": "#7711AA",
@@ -105,7 +105,7 @@
 		"panelTitle.activeForeground": "#F0F0F0",
 		"panelTitle.inactiveForeground": "#9099CC",
 		/* "panel.background": "#001fa5", */
-		"panel.background": "#070f7c",
+		"panel.background": "#01021a",
 		"panel.border": "#eeeeee",
 		"panelTitle.activeBorder": "#F0F0F0",
 		// Status Bar Colors
@@ -115,9 +115,9 @@
 		"statusBar.foreground": "#F0F0F0",
 		// Scroll Bar Colors
 		"scrollbar.shadow": "#224499",
-		"scrollbarSlider.activeBackground": "#4466BB",
-		"scrollbarSlider.background": "#4466BB",
-		"scrollbarSlider.hoverBackground": "#88AADD",
+		"scrollbarSlider.activeBackground": "#010101",
+		"scrollbarSlider.background": "#010101",
+		"scrollbarSlider.hoverBackground": "#000000",
 		// Title Bar Colors
 		"titleBar.activeBackground": "#003099",
 		"titleBar.activeForeground": "#C0CCFF",
@@ -435,7 +435,7 @@
 			],
 			"settings": {
 				/* "foreground": "#f700ff" */
-				"foreground": "#fd9b4b"
+				"foreground": "#b9ffd6"
 			}
 		},
 		{
@@ -547,7 +547,8 @@
 		{
 			"name": "JSON Key - Level 0",
 			"scope": [
-				"source.json meta.structure.dictionary.json support.type.property-name.json"
+				"source.json meta.structure.dictionary.json support.type.property-name.json",
+				"meta.object-literal.key.ts"
 			],
 			"settings": {
 				"foreground": "#e4bcff"
